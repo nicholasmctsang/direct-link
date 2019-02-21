@@ -36,7 +36,7 @@ The table gives details about the IBM Cloud datacenters where Direct Link Dedica
 | CHE01 | Tata | PH-01 | 226, Red Hills Road,Kallikuppam, Ambattur |
 | HKG01 | Mega-I (via PACNET) | Mega-I (iAdvantage Hong Kong) |29F, 399 Chai Wan Road |
 | MEL01 | Digital Realty | MEL11 | 72 Radnor Drive, Deer Park |
-| MEL02 | NextDC | M2 | 820 Lorimer Street, Port Melbourne |
+| MEL02 | NextDC | M1 | 820 Lorimer Street, Port Melbourne |
 | PER01 | Metronode | F1Z | 60 Randell St, Shenton Park, Western Australia |
 | SEO01 | C&C | Seoul01 | 46, Pangyo-ro 255beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do |
 | SEO02 | KINX | KINX Bundang IDC | 3F Hostway IDC ,343-1 Yatap-dong , Gyeonggi-do |
@@ -44,7 +44,7 @@ The table gives details about the IBM Cloud datacenters where Direct Link Dedica
 | SNG02 | Equinix | SG1 | 20 Ayer Rajan Crescent Industrial Park |
 | SYD01 | Global Switch | SYD01 | 400 Harris Street aka 273 Pyrmont St Ultimo  |
 | SYD02 | Equinix | SY3 | 47 Bourke Rd |
-| SYD03 | NextDC | 4 Eden Park Drive, Macquarie Park |
+| SYD03 | NextDC | S1 | 4 Eden Park Drive, Macquarie Park |
 | SYD04 | Digital Realty | SYD10 | 1-11 Templar Rd, Erskine Park |
 | SYD05 | Equinix | 200 Bourke Rd |
 | TOK01 | Equinix | TY2 |
